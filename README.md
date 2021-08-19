@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Bubble tea is the best**
 
+[![Ewan's github stats](https://github-readme-stats.vercel.app/api?username=ewanhohou&theme=dark&show_icons=true)](https://github.com/ewanhohou)
+
 <p align="center">
 <a href="https://codepen.io/ewanhohou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ewanhohou" height="20" width="20" /></a>
 <a href="https://dev.to/ewanhohou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ewanhohou" height="20" width="20" /></a>
