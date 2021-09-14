@@ -3,7 +3,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ewanhohou" alt="ewanhohou" /> 
-  <a href="https://github.com/ewanhohou" target="blank"><img align="center" src="https://img.shields.io/github/followers/ewanhohou?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
 </p>
 
 - 🌱 I’m currently learning **Flutter**
@@ -15,9 +14,8 @@
 - 📫 How to reach me **https://github.com/ewanhohou**
 
 - ⚡ Fun fact **Bubble tea is the best**
-<p align="center">
-[![Ewan's github stats](https://github-readme-stats.vercel.app/api?username=ewanhohou&theme=dark&show_icons=true)](https://github.com/ewanhohou)
-</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ewanhohou&theme=dark&show_icons=true" alt="ewanhohou" /></p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ewanhohou&theme=onedark&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,Stars,Followers,Repositories" alt="ewanhohou" />
 </p>
